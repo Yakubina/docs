@@ -1,40 +1,42 @@
 Добро пожаловать
 ################
 
-.. note::
-    The documentation is not currently supported in Russian language for this
-    page.
+CakePHP 3 это фреймворк для веб разработки, работающий на **PHP 7** (мин. PHP 5.5.9).
+Прочитайте :doc:`Первое знакомство с CakePHP </intro>` для ознакомления с основами CakePHP 3.
 
-    Please feel free to send us a pull request on
-    `Github <https://github.com/cakephp/docs>`_ or use the **Improve This Doc**
-    button to directly propose your changes.
-
-    You can refer to the english version in the select top menu to have
-    information about this page's topic.
+Книга рецептов CakePHP - это открытый проект, его документация создана сообществом CakePHP.
+Важно: Кнопка "карандаш" в правой части сайта перенаправит вас к онлайн-редактору страницы на GitHub. Это позволит вам исправить неточности в документации или дополнить ее. 
 
 .. container:: offline-download
 
-    **Читайте руководство где угодно**
+    **Возьмите книгу с собой**
 
     .. image:: /_static/img/read-the-book.jpg
 
-    Наслаждайтесь книгой рецептов CakePHP почти везде. Она дступна как в формате PDF,
-    так и в EPUB, вы можете теперь читать ее на многих устройствах, даже офлайн.
+    Наслаждайтесь книгой рецептов CakePHP в любом месте. Она доступна в форматах PDF и EPUB и вы можете читать ее на любых устройствах даже без доступа к интернету.
 
     - `PDF <../_downloads/en/CakePHPCookbook.pdf>`_
     - `EPUB <../_downloads/en/CakePHPCookbook.epub>`_
     - `Original Source <http://github.com/cakephp/docs>`_
 
-    .. note::
-        The documentation is not currently supported in Russian language for this
-        page.
+Помощь
+======
 
-        Please feel free to send us a pull request on
-        `Github <https://github.com/cakephp/docs>`_ or use the **Improve This Doc**
-        button to directly propose your changes.
+Если у вас возникли трудности, вы можете найти ответы на ваши вопросы в :doc:`следующием разделе:
+</intro/where-to-get-help>`.
 
-        You can refer to the english version in the select top menu to have
-        information about this page's topic.
+Первые шаги
+===========
+
+Изучение нового фреймворка это одновременно сложный и увлекательный процесс. Чтобы помочь вам, мы подготовили для вас книгу рецептов с примерами кода, которые подойдут для выполнения большинства задач. Лучше всего начать с :doc:`/quickstart` - тут описаны основние возможности CakePHP.
+
+Когда вы изучите пошаговое руководство, можно перейти к изучению основных элементов любого приложения на CakePHP:
+
+* :ref:`Обработка запросов в CakePHP <request-cycle>`
+* :doc:`Соглашение CakePHP <intro/conventions>`
+* :doc:`Контроллеры </controllers>` обрабатывают запросы, взаимодействуют с базой данных и создают ответы на запросы
+* :doc:`Предствления </views>` для вывода и отображения данных в разных форматах: HTML, JSON и многих других
+* :doc:`Модели </orm>` не менее важная часть любого приложения. Модели отвечают за сохранение и получение данных, валидацию и т.д.
 
 
 .. meta::
